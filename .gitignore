@@ -1,0 +1,9 @@
+node_modules
+build
+client_secret_id.json
+credential.json
+package-lock.json
+.env
+.DS_Store
+.DS_Store
+.DS_Store
